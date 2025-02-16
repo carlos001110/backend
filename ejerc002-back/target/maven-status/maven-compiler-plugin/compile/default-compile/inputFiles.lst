@@ -1,0 +1,10 @@
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/EjemploLogica.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/Ejerc002Application.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/controller/ColumnaArquitectonicaController.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/model/ColumnaArquitectonica.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/model/Dato.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/repository/ColumnaArquitectonicaRepository.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/repository/DatoRepository.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/service/CRUDOperation.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/service/ColumnaArquitectonicaService.java
+/home/curso13/Desktop/proyectos/ejerc002-back/src/main/java/es/santander/ascender/ejerc002/service/CrudSecurityException.java
